@@ -1,2 +1,1 @@
-# hucook
-Automatic Data Augmentation for Cooking Videos
+# Automatic Data Augmentation for Cooking Videos
